@@ -1,0 +1,11 @@
+{
+  "buildTime": "2025-10-03T09:47:01.498Z",
+  "version": "2024.12",
+  "models": 74,
+  "sources": [
+    "Hugging Face API",
+    "Community Database",
+    "Manual Curation"
+  ],
+  "lastUpdate": "2025-10-03T09:47:01.499Z"
+}
