@@ -1,4 +1,5 @@
 {
+  "homepage": "https://UniquePratham.github.io/gpu_poor/",
   "name": "gpu_mem",
   "version": "0.1.0",
   "description": "Comprehensive GPU memory calculator and performance estimator for Large Language Models",
