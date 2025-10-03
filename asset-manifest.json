@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gpu_poor/static/css/main.fb720bb7.css",
+    "main.js": "/gpu_poor/static/js/main.135fba8e.js",
+    "index.html": "/gpu_poor/index.html",
+    "main.fb720bb7.css.map": "/gpu_poor/static/css/main.fb720bb7.css.map",
+    "main.135fba8e.js.map": "/gpu_poor/static/js/main.135fba8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb720bb7.css",
+    "static/js/main.135fba8e.js"
+  ]
+}
