@@ -54,3 +54,7 @@ pids
 # Temporary folders
 tmp/
 temp/
+
+# Added by repo hygiene pass
+__pycache__/
+node_modules/
